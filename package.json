@@ -1,0 +1,23 @@
+{
+  "name": "primo-test",
+  "version": "1.0.0",
+  "main": "merge.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.3",
+    "jest": "^29.6.2",
+    "ts-jest": "^29.1.1"
+  },
+  "jest": {
+    "preset": "ts-jest"
+  }
+}
